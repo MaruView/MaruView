@@ -1,6 +1,6 @@
 ### Hola amigos!👋🌮 
 
-Hi im Javi and i make things! Mostly videogames and software stuff💖
+Hi im Javi and i make things! Mostly software stuff and videogames 💖
 
 - 🔭 I am currently working as a Backend developer at ADIDAS the company of the three stripes (///) and as a programming lecturer at Universidad San Jorge!
 
